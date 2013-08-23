@@ -1,0 +1,5 @@
+{
+  "name": "sprite-test",
+  "paths": ["../../.."],
+  "local": ["tile", "sprite", "canvas"]
+}
