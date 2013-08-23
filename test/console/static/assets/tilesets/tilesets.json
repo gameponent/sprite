@@ -28,6 +28,27 @@
               "height": 58, 
               "name": "run_2", 
               "width": 37
+            }, 
+            {
+              "y": 162, 
+              "x": 0, 
+              "height": 50, 
+              "name": "run_3", 
+              "width": 35
+            }, 
+            {
+              "y": 162, 
+              "x": 35, 
+              "height": 50, 
+              "name": "run_4", 
+              "width": 35
+            }, 
+            {
+              "y": 212, 
+              "x": 0, 
+              "height": 50, 
+              "name": "run_5", 
+              "width": 35
             }
           ], 
           "name": "run"
